@@ -10,11 +10,11 @@ Site documentation folder structure
  This is a overview of the folder structure a child project should have for the site documentation to work.
 
 	-  src
-	- site
-		site.xml   
+		- site
+		  site.xml   
 		- uml
-		plantuml_file.puml
+		  plantuml_file.puml
 		- images
-		image.png
+		  image.png
 		- apt 
-		index.apt
+		  index.apt
