@@ -5,12 +5,12 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>1.0.1.RELEASE</version>
+		<version>1.0.2.RELEASE</version>
 	</parent>
 
 	<groupId>eu.miman.build.parent.springboot</groupId>
 	<artifactId>miman-spring-boot-parent</artifactId>
-	<version>1.0.0-RELEASE</version>
+	<version>1.0.1-RELEASE</version>
 	<packaging>pom</packaging>
 
 	<name>miman-spring-boot-parent</name>
